@@ -25,7 +25,12 @@ public class Main {
         liste.removeNumberInTheList(5);
 
 
+        liste.removeIndex(1);
+        liste.removeNumberInTheList(99);
+        liste.removeNumberInTheList(30);
+
         liste.show();
+
 
     }
 }
